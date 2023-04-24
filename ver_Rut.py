@@ -1,5 +1,4 @@
 rut=int(input("Ingrese su rut para verificar que sea válido: "))
-print("Su RUT es: ",rut)
 vrut=str(rut)
 cont=2
 xrut=rut
